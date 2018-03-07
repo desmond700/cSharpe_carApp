@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Cars>
+  <Car>
+    <Make>BMW</Make>
+    <Model>4 Series Coupé</Model>
+    <Year>2018</Year>
+    <Price>$52,150</Price>
+    <img>BMW-4-Series-Coupe-ModelCard.png</img>
+  </Car>
+  <Car>
+    <Make>BMW</Make>
+    <Model>X6 xDrive35i</Model>
+    <Year>2018</Year>
+    <Price>$73,350</Price>
+    <img>MY15-X6-SAC.png</img>
+  </Car>
+  <Car>
+    <Make>BMW</Make>
+    <Model>M6 Gran Coupé</Model>
+    <Year>2018</Year>
+    <Price>$131,800</Price>
+    <img>MY16-M6-Gran-Coupe.png</img>
+  </Car>
+  <Car>
+    <Make>BMW</Make>
+    <Model>i8</Model>
+    <Year>2018</Year>
+    <Price>$149,900</Price>
+    <img>MY15-i8.png</img>
+  </Car>
+</Cars>
